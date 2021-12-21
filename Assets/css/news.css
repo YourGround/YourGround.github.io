@@ -31,6 +31,18 @@
     margin-top: 40px;
 }
 
+.char2 {
+    font-size: 35px;
+}
+
+.char3 {
+    font-size: 35px;
+}
+
+.char4 {
+    font-size: 35px;
+}
+
 .separate {
     width: 100%;
     margin: 30px 0;
@@ -380,3 +392,58 @@
 }
 
 /* FOOTER */
+/* LGBT _SUGGEST */
+
+.lgbt_suggest {
+    background-color: rgb(15, 15, 15);
+    text-align: center;
+}
+
+.lgbt_heading {
+    padding-top: 20px;
+    margin: 15px 0;
+}
+.char1{
+    color: red;
+    font-size: 40px;
+}
+.char2{
+    color: orange;
+    font-size: 20px;
+}
+.char3{
+   color: yellow;
+   display: inline-block;
+   transform: rotate(20deg);
+}
+.char4{
+    color: green;
+    display: inline-block;
+    transform: rotateY(200deg);
+}
+.char5{color: blue}
+.char6{
+    color: blue;
+    display: inline-block;
+    transform: rotateY(200deg);
+}
+.char7{color: purple}
+.char8{
+    display: inline-block;
+    transform: translateY(10px);
+    color: red
+}
+.char9{
+    display: inline-block;
+   transform: rotate(20deg);
+    color: orange
+}
+.char10{color: yellow}
+.char11{color: green}
+
+
+.lgbt-meaning {
+    color: #fff;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+/* END LGBT */

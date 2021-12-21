@@ -236,6 +236,7 @@ ion-icon {
 
 .related_ex_item {
     cursor: pointer;
+    margin-bottom: 20px;
 }
 
 .related_experiences > h2 {
@@ -244,9 +245,8 @@ ion-icon {
 }
 
 .ex_item-image {
-    width: 213px;
+    max-width: 213px;
     height: 290px;
-    background-image: url(/Assets/img/Rooms/hanoi_food1.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 10px;
@@ -255,7 +255,6 @@ ion-icon {
 }
 
 .ex_item-image:hover {
-    background-image: url(/Assets/img/Rooms/hanoi_food2.jpg);
     cursor: pointer;
 }
 
@@ -353,3 +352,4 @@ ion-icon {
     color: var(--primary-color);
     opacity: 0.7;
 }
+

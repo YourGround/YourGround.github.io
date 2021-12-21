@@ -199,3 +199,11 @@ $(document).ready(function () {
     });
 });
 
+
+$(document).ready(function() {
+  $(".lgbt_heading").lettering();
+});
+;
+  
+
+

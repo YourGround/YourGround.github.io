@@ -87,6 +87,11 @@
     .collapse  {
         flex: inherit;
     }
+
+    .image-box {
+        height: 300px;
+
+    } 
 }
 
 @media (max-width: 575px) {
@@ -290,6 +295,11 @@
 
     .news-related-post-btn::after{
         width: 43.5%;
+    }
+
+    .image-box {
+        height: 400px;
+
     }
 }
 

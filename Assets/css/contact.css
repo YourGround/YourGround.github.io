@@ -358,5 +358,45 @@ label.error {
     display: block;
 }
 
+.members_container {
+    margin-top: 20px;
+}
+
+.image-box {
+    display: block;
+    width: 100%;
+    height: 390px;
+}
+
+.image-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.member-id,
+.member-name {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0;
+    line-height: 1.6;
+}
+
+.member-id{
+    margin-top: 0;
+}
+
+.members-margin {
+    margin-bottom: 20px;
+}
+
+.member-name ion-icon {
+    position: relative;
+    top: 3px;
+    color: var(--primary-color);
+}
+
+
 
 
